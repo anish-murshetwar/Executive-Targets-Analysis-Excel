@@ -4,7 +4,7 @@ A simple Excel executive dashboard with a main sheet and linked detail graphs.
 
 What this repo contains
 - Main dashboard sheet summarizing targets and KPIs.
-- Three supporting graph sheets (each on its own sheet) accessible from the main dashboard via hyperlinks.
+- Four supporting DashBoard sheets which is connected to graphs and are accessible from the main dashboard via Macros.
 - Power Pivot (Data Model) used for calculations and visuals.
 
 How to open & use
@@ -15,7 +15,7 @@ How to open & use
 5. If macros are present, enable them only for trusted files.
 
 Notes
-- Hyperlinks are used to keep the main dashboard clean while providing quick access to supporting visuals.
+- Macros are used to keep the main dashboard clean while providing quick access to supporting visuals.
 - Do not store sensitive data in the public repository.
 
 ### DashBoard Overview
